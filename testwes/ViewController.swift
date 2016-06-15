@@ -10,7 +10,13 @@ import UIKit
 
 class ViewController: UIViewController {
     var ronaldo = 10
+<<<<<<< HEAD
 
+=======
+    add messi = 20
+    
+    
+>>>>>>> addmessi
 
     override func viewDidLoad() {
         super.viewDidLoad()
