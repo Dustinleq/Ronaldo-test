@@ -9,6 +9,8 @@
 import UIKit
 
 class ViewController: UIViewController {
+    var ronaldo = 10
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()
